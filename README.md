@@ -1,4 +1,20 @@
-# Project-1---Data-Analyst-with-Python
-iPhone sales Analysis For Data Analysis.
-<br>
-Author - NILESH KUMAR PRASAD
+# Project-2-Data-Analyst-with-Python
+
+# Interactive Dashboard with Python – Streamlit
+
+Sales Dashboard built-in Python and the Streamlit library to visualize Excel data.
+
+
+## Run the app
+```Powershell
+# vs code terminal
+streamlit run app.py
+
+# quit
+ctrl-c
+```
+
+## Demo
+Sales Dashboard: 
+
+## Screenshot
