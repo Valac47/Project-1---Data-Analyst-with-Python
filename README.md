@@ -1,8 +1,8 @@
-# Project-2-Data-Analyst-with-Python
+# Project-1-Data-Analyst-with-Python
 
 # Interactive Dashboard with Python – Streamlit
 
-Sales Dashboard built-in Python and the Streamlit library to visualize Excel data.
+Sales Dashboard built-in Python and the Streamlit library to visualize csv data.
 
 
 ## Run the app
@@ -15,11 +15,12 @@ ctrl-c
 ```
 
 ## Demo
-Sales Dashboard: 
+Sales Dashboard: SUPERstore
 
 ## Screenshot
 ## Screenshot
-![Dashboard Screenshot](https://github.com/Valac47/Project-2-Data-Analyst-with-Python/assets/148631804/73371964-8887-4aed-aebc-f955a7e8bf31)
+![Dashboard Screenshot]![image](https://github.com/Valac47/Project-1---Data-Analyst-with-Python/assets/148631804/ef24d331-76b5-4065-9f11-6f39dec7861e)
+
 
 ## 🤝 Get to Know Me & Stay Connected
 
